@@ -1,12 +1,9 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:commerce/components/buy_button.dart';
-import 'package:commerce/components/buy_goods.dart';
 import 'package:commerce/components/commerce_item_tile.dart';
 import 'package:commerce/components/shimmer_effect.dart';
 import 'package:commerce/model/cart_model.dart';
 import 'package:commerce/pages/cart_page.dart';
-import 'package:commerce/pages/shop_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

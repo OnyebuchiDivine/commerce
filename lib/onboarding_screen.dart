@@ -2,7 +2,6 @@ import 'package:commerce/inro_screens/screen1.dart';
 import 'package:commerce/inro_screens/screen2.dart';
 import 'package:commerce/inro_screens/screen3.dart';
 import 'package:commerce/pages/auth_page.dart';
-import 'package:commerce/pages/sign_in_page.dart';
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 

@@ -1,5 +1,4 @@
 import 'package:commerce/model/cart_model.dart';
-import 'package:commerce/onboarding_screen.dart';
 import 'package:commerce/splash_screen.dart';
 import 'package:commerce/theme/dark_theme.dart';
 import 'package:commerce/theme/light_theme.dart';

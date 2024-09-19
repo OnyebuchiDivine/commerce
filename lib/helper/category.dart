@@ -1,5 +1,4 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:commerce/components/shimmer_effect.dart';
 import 'package:commerce/helper/categoryshimmer.dart';
 import 'package:flutter/material.dart';
 

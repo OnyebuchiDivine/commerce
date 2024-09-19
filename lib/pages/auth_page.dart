@@ -1,6 +1,5 @@
 import 'package:commerce/components/log_in_or_register_page.dart';
 import 'package:commerce/home_page.dart';
-import 'package:commerce/pages/user_home.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 

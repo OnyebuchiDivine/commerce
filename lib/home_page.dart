@@ -2,7 +2,6 @@ import 'package:commerce/pages/user_account.dart';
 import 'package:commerce/pages/user_home.dart';
 import 'package:commerce/pages/user_list.dart';
 import 'package:commerce/pages/user_wish.dart';
-import 'package:commerce/pages/sign_in_page.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
